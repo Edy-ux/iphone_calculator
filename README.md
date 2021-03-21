@@ -1,6 +1,6 @@
 ## Iphone-Calulator
 <h1> Projeto Caluladora </h1>
-<h2>Calulador Iphone com funções similares do iphone<h2>
+<h2>Caluladora Iphone com funções similares do iphone<h2>
 
 
 <img src="./assets/iphone_calc.png" alt="">
