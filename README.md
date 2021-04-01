@@ -1,13 +1,10 @@
 
 <h1> Projeto Caluladora </h1>
-<p2>Caluladora Iphone com funções similares do iphone<p>
+<p>Caluladora Iphone com funções similares do iphone<p>
 
 
 <img src="./assets/iphone_calc.png" alt="">
 
-<span>
- _____________________
-<span>
 
 ## 🚀 Tecnologias
 
